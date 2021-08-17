@@ -22,7 +22,7 @@
     "react-markdown": "^5.0.3",
     "showdown": "^1.9.1",
     "styled-components": "^5.2.1",
-    "swr": "^0.3.9"
+    "swr": "^0.5.6"
   },
   "devDependencies": {
     "@zeit/next-css": "^1.0.1",
